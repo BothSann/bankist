@@ -8,7 +8,6 @@ The **Bankist Website**, a fictional digital banking platform, simulates a simpl
 
 ## ✨ Features
 
-- 🖥️ **Responsive Design**: Optimized for both desktop and mobile devices.
 - 🔑 **Demo Login**: Simulated login system to access different accounts.
 - 📊 **Account Balances**: View current balance, deposits, withdrawals, and interest calculations.
 - 💸 **Transactions**: Simulate money transfers and loan requests.
