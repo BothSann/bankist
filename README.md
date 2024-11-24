@@ -1,12 +1,8 @@
 # 🌟 Bankist Website Project
 
-This repository contains the code and resources for the **Bankist Website**, a fictional digital banking platform. It showcases essential features of an online banking application with a modern, minimalist design. This project was built as part of a learning exercise in web development.
-
----
-
 ## 📝 Overview
 
-The **Bankist Website** simulates a simple and efficient online banking platform. Users can log in to view account balances, recent transactions, and perform basic banking operations like transferring money, requesting loans, and closing accounts. The project focuses on frontend functionality using HTML, CSS, and JavaScript.
+The **Bankist Website**, a fictional digital banking platform, simulates a simple and efficient online banking platform. Users can log in to view account balances, recent transactions, and perform basic banking operations like transferring money, requesting loans, and closing accounts. The project focuses on frontend functionality using HTML, CSS, and JavaScript.
 
 ---
 
