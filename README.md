@@ -2,7 +2,7 @@
 
 ## 📝 Overview
 
-The **Bankist Website**, a fictional digital banking platform, simulates a simple and efficient online banking platform. Users can log in to view account balances, recent transactions, and perform basic banking operations like transferring money, requesting loans, and closing accounts. The project focuses on frontend functionality using HTML, CSS, and JavaScript.
+The **Bankist Website Application**, a fictional digital banking platform, simulates a simple and efficient online banking platform. Users can log in to view account balances, recent transactions, and perform basic banking operations like transferring money, requesting loans, and closing accounts. The project focuses on frontend functionality using HTML, CSS, and JavaScript.
 
 ## 🖼️ Screenshot
 
