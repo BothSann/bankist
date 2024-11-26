@@ -46,7 +46,7 @@ To run the project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/BothSann/bankist.git
+   git clone https://github.com/BothSann/bankist-app-js.git
 
 ---
 
