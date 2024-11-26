@@ -1,4 +1,4 @@
-# 🌟 Bankist Website Project
+# 🌟 Bankist Website Application Project
 
 ## 📝 Overview
 
